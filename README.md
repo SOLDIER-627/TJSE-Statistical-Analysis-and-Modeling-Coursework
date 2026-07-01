@@ -16,4 +16,4 @@
 
 暂无直接存放在课程根目录下的文件。
 
-[返回大三上学期](../README.md) | [返回总目录](../../README.md)
+[返回大三上学期](https://github.com/SOLDIER-627/TJSE-NetTrack-Assignments/tree/main/Third_year_first_semester) | [返回总目录](https://github.com/SOLDIER-627/TJSE-NetTrack-Assignments)
