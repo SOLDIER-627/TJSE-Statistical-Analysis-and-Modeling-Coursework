@@ -123,14 +123,14 @@ pip install streamlit
 
 ## 📝 使用说明
 
-1. 准备数据：将企业相关数据按照指定格式放入[data/raw/](file:///G:/Third_year_first_semester/SystemAnalysisAndModeling/CreditRiskAnalyzer/data/raw/)目录
+1. 准备数据：将企业相关数据按照指定格式放入[data/raw/](./data/raw/)目录
 2. 运行R脚本：按顺序执行上述R脚本来完成数据分析和建模
 3. 调整参数：通过Web界面调整信贷策略参数
-4. 查看结果：在[results/](file:///G:/Third_year_first_semester/SystemAnalysisAndModeling/CreditRiskAnalyzer/results/)目录查看各类分析结果和图表
+4. 查看结果：在[results/](./results/)目录查看各类分析结果和图表
 
 ## 📚 项目报告
 
-详细的分析过程和结果请参见[report.md](file:///G:/Third_year_first_semester/SystemAnalysisAndModeling/CreditRiskAnalyzer/report.md)文件，包含了：
+详细的分析过程和结果请参见[report.md](./report.md)文件，包含了：
 - 项目背景和数据来源
 - 数据预处理和特征工程方法
 - 探索性数据分析过程
